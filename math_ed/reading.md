@@ -101,3 +101,73 @@ Standards of instruction to allow a school to be certified as efficient (1876):
 - remotness is an obstacle to make person more enganged with maths 
 - Maths depends on recuriting students, create a wider understanding on why it should be supported 
 - Reliance on computers to give answers without understanding 
+
+### The Elephant in the Classroom
+
+#### What is Maths ?
+
+- ***Reuben Hersh (What is Mathematics Really) *** - People don't like maths because of the way it is mis-represented in school
+
+  - bears little to maths of life & work or even maths with mathematicans do 
+
+- The golden ratio (1.618:1) -> ratio of spirals in seashells,pinecones and pineapples is exactly the same, human body, architecture 
+
+- Most maths students in secondary schools about these relationships and they will not even know they exist.
+
+  - person’s height divided by the distance from tummy button to the floor; or the distance from shoulders to finger-tips, divided by the distance from elbows to finger-tips
+  - United Nations Building, the Greek Parthenon, and the pyramids of Egypt
+
+- Illuminating relationships such as thouse found in shapes and in nature 
+
+- Express relations and ideas in numerical, graphical, symbolic, verbal and pictorial forms
+
+- Misled by the image of maths presented in school maths classrooms as not given opportunity to experience real maths 
+
+- School students says maths is 'a list of rules and procdures that need to be remembered'
+
+- Mathematicans often not very good at calculations as they do not feature centrally in their work. Will say 'study of patterns'
+
+- Classrooms should give children a sense of the nature of mathematics 
+
+  ##### Fermat's Last Theorem
+
+  > Theory becam the challenge of centuries. World's greatest Mathematical Problem
+
+  - Got his theory from considering Pythagoras theorem -> school children learn from triangles 
+  - Andrew Wiles was the man who solved this 
+  - He constructued beautiful new mathmatical methods and relationships
+  - Long and complicated problems are important 
+    - enocurage persistence,value that is critical for young people to develop and that will stand them in good stead in life and work
+
+- Mathematicans are interviewed often talk about enjoyment in solving difficult problems
+
+- Hard for a school child to enjoy a subject if they experience repeated failure.
+
+- Mathematicans are successful is because they can problem solve 
+
+- Kind of about guessing. Kids at school are surprised as they have learnt to be precise -> don't have a good feel for numbers 
+
+- At school kids learn the methods and how to use them in problems
+
+- Work in collabration not isolation
+
+- maths is all about going from an answer to a question -> requires ingenuity, thinking and creativity
+
+- mathematical methods and relationships known and taught to school children started as questions,  students do not see the questions.  taught content that often appears as a long list of answers to questions that nobody has ever asked
+
+- students need to be given opportunites to ask their own questions and to extend problems in new direction
+
+- Posing and extending problems of interest to students mean they enjoy mathematics more, they feel more ownership of their work and they ultimately learn more.
+
+- Mathematical coursework no longer exists in England as it was decided that it too often led to cheating
+
+  - to use maths in the solving of real and interesting problems
+
+- use of a range of representations such as symbols, words, pictures, tables and diagrams, all used with extreme precision
+- For some it is good where there are rules for writing and communicating but for others it is too hard 
+- many school approaches is that students should spend years being drilled in a set of methods that they can use later
+- mathematicians are most concerned about the students who will enter post-graduate programs in mathematics
+- students will encounter real mathematics and use the tools they have learned in school to work in new, interesting and authentic way
+- Most will have given up on the subject 
+- If they could work like mathematicans, they would see what maths is like, and be given opportunties to enjoy maths and learn it in the most productive way 
+- 
