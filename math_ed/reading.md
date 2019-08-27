@@ -1,6 +1,6 @@
 # Mathematical Education 
 
-## Week 1 Reading 
+## Week 1 Core Reading 
 
 ### Teaching mathematics in secondary schools : a reader
 
@@ -70,3 +70,34 @@ Standards of instruction to allow a school to be certified as efficient (1876):
 
 ##### Mathematical education in the twenty-first century 
 
+> Majority of people unaware of impact of mathematics through interaction with developing technology
+
+- Lack of sense of what maths can and cannot do means politcal policy makers who take advice on all manner of issues from civil servants using maths models often lack any means of juding whether those models are appropriate or indeed of what questions they should be asking 
+- Maths perceived as difficult but as remote in its own language 
+- Need it to relate to real people 
+- Acquire :
+  - basic skills & knowledge for everyday life 
+  - development of the ability to think and reason logically 
+  - maths models / maths as an language / problem solving 
+- Poltical issue with this :
+  - deciding what content of apporiate mathematical syllabuses should consist of
+  - supply of teachers capable of delivering this mathematics 
+  - amount of time devoted to maths within curriculum at different stages
+- Less maths teachers 
+- Compulsory for everyone till 16
+- serious about providing basic skills as well as building the platform that encourages kids to study further -> maths needs to be assigned more time 
+- Taiwan schools teach 222 days per year, UK only 190 days 15 hours a week on maths three times as much as UK
+- an increase in maths will not happen unless the maths communtiy make a case for learning and appreciating maths that will decrease time spent on other subjects or school day or year needs to be extended 
+- Post 16 situation more complex 
+  - Maths compulsory part of baccalaureate (hard decding what maths to include)
+- Define what mathematically educated means distinguish make math its own disciple part of tradition and maths as a tool of understanding the complex world 
+
+##### Conclusion
+
+- need basic maths as "life skills"
+- employers who require technique, knowledge, think logically and to be organised and systematic, policy makers and decsion makers
+- Innovation industries driving maths like tech 
+- Subject expanding beyond capability of an ordinary person to understand 
+- remotness is an obstacle to make person more enganged with maths 
+- Maths depends on recuriting students, create a wider understanding on why it should be supported 
+- Reliance on computers to give answers without understanding 
