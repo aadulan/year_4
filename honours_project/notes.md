@@ -1,0 +1,5 @@
+- need to think about why algebra is important for kids to learn 
+- why they are struggling 
+- where do we use algebra in everyday life real world situations 
+- need to keep on going to real world situations 
+- 

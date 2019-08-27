@@ -273,4 +273,8 @@ Standards of instruction to allow a school to be certified as efficient (1876):
 
     
 
+  ## Week 2 Core Reading 
+
+  ### How children learn mathematics: a guide for parents and teachers
+
   
