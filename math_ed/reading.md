@@ -164,10 +164,113 @@ Standards of instruction to allow a school to be certified as efficient (1876):
   - to use maths in the solving of real and interesting problems
 
 - use of a range of representations such as symbols, words, pictures, tables and diagrams, all used with extreme precision
+
 - For some it is good where there are rules for writing and communicating but for others it is too hard 
+
 - many school approaches is that students should spend years being drilled in a set of methods that they can use later
+
 - mathematicians are most concerned about the students who will enter post-graduate programs in mathematics
+
 - students will encounter real mathematics and use the tools they have learned in school to work in new, interesting and authentic way
+
 - Most will have given up on the subject 
+
 - If they could work like mathematicans, they would see what maths is like, and be given opportunties to enjoy maths and learn it in the most productive way 
-- 
+
+  ### Mathematics Teaching 1994 Conference Report
+
+  #### Why do we Teach Mathematics in School?
+
+  ##### Why should this question bother us?
+
+  > Reasons why maths is in the curriculum is different to why it should actually be in the curriculum
+
+  - Seems intellectually unacceptable not to know why we exercise our various professions in mathematics education
+  - Need to present agruements to justify mathematics : in front of students, community and society at large
+  - Need to think about the purpose, goal and aim of mathematics education we are offering to pupils 
+
+  ##### Types of answers traditionally encountered
+
+  - produce higher emotions & giving mental pleasure 
+  - brain development 
+  - producing logical ways of thinking 
+  - aid given by mathematical weapons on the study of physical sciences 
+  - in passing examinations 
+  - give men mental tools to use 
+  - teaching a man importance of thinking things out for himself
+  - making men feel that they know the principles on which it is founded 
+  - giving acute philosophical minds a logical counsel of perfection altogether charming and satisfying
+
+  - appreciate greater problems of the worls, the solution of which depends on maths and science 
+  - enable each pupil to develop mathematical skill and understanding required for adult life, for employment, for study and training
+  - learn a powerful means of communication
+  - need to stop teaching maths just because we should 
+  - *Utilitarian Arguments*
+    - occupational needs
+    - coping with everyday private life 
+    - prequisties for the study of other subjects
+  - *General education Arguments*
+    - developing formative capactities eg: logical thinking , analytic, systematic, memory, imagination, clarity and precision of expression, 
+    - developing personality and attitudes eg: independent & autonomous thinking and behaviour, problem solving, precision and accuracy, discipline, perservance, confidences 
+    - Aesthetic and recreational pleasure 
+    - insight into human culture and achievement 
+  - Serve society as :
+    - demands for labour force in order to further economic/technological development
+    - ideology and politics 
+    - culture
+  - serve individual needs concering 
+  -  Socio-economic and occupational welfare 
+  - Citizenship & social life 
+  - everyday private life 
+
+  - Can create an argument-purpose-matrix (draw please)
+
+    - cells are non-void from both as you can find represented in docs and lit on maths
+
+  - Times and socieities give different weight to cells 
+
+    ##### Attempts to reconstruct society's real reasons for providing maths education to population
+
+    Maths is :
+
+    - a pure science 
+    - an applied science which helps understand and develop extra-mathematical matters
+    - a system of instruments for practice i.e products and processes that can assist extra- mathematical decisions and actions 
+    - a field of aesthetics (beauty,pleasure and excitment)
+    -  a teaching subject
+
+  - Maths is unique:
+
+    - has 5 properties at same time 
+    - can be used in mutliple areas 
+    -  2 maths linked to functioning and development of society at large :
+      - other science subjects 
+      - speicalised practise areas 
+      - general practise areas 
+
+  - Contributes to the shaping of society
+
+  ##### Mathematics education for democracy
+
+  > should provide post-elementary maths ed to all pupils
+
+  - shapes society, mathematical competence tends to be a scarce resource 
+
+  - provide insight into the 'general'
+
+  - Enable, understand and relate to, act on the role of maths 
+
+  - Students should :
+
+    - be able to independently activate & apply maths problems in the real world 
+    - Enable to discover, understand and assess others' implicity or explict use of maths in situations 
+    - Experience & acquire a feel for range and limitations of application of maths to extra mathematical situations 
+    - enable to act with confidence, competence and creativity within universe
+    - Communicate with others about mayyers with a mathematical content 
+    - acquire understanding of special nature of maths 
+    - should acquire some insight in history and development of maths 
+    - relations between maths and society 
+
+    
+
+  
