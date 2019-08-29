@@ -352,10 +352,64 @@ Standards of instruction to allow a school to be certified as efficient (1876):
 
     > Drawn our attention to behaviour that is characteristic of child after children
 
-    
+    ### The Psychogoly of Learning Maths (Richard Skemp) 
 
-    
+    #### Chapter 7 : Formation of Mathematical Concepts 
 
-    
+    #### Abstracting and Classifying 
+
+    > Children have classification of their previous experience, fitting of their present experience into one of these classes. Everyone does this 
+
+    - Classify every time we recognise an object as one which we have seen before 
+    - Varying inputs -> invariant properties - can tell the similarties a lot easier than differences 
+    - Concepts require a number of experiences which have something in common, once formed we talk about examples of the concept
+    - objects that stand out from surroundings are more liekly to be remembered 
+
+    ##### Communication of concepts 
+
+    > language used to speed up making a concept by helping to collect and separate examples and non-examples 
+
+    - usually in maths this is what is done 
+    - Trying to describe red 
+      - wavelength - doesn't actually mean anything 
+      - showing what is red is more understandable (auxiliary)
+
+    - Sensory and motor experience of the outside world **(primary concepts)** . Ones that are abstracted are **(secondary concepts)**
+    - Order between concepts and a conceptual hierachy makes us understand more why some concepts can only be formed once others have formed
+    - Definitions can be seen as a way of adding precison to the boundaries of a concept
+    - Commuication of maths is more difficult on paert of communicator and receiver. 
+      - concepts of a higher order in a hierachy than those which a person already has cannot be communicated by definition can now be deduced 
+
+  ##### The learning of Mathematical Concepts
+
+  > everyday knowledge is learnt directly from our enivronment and concepts involved are not very abstract
+
+  - Maths cannot be learnt directly from the everyday environment but indirectly from other mathematicans. Dependence of teachers and can cause fear and dislike of maths
+  - The communicator of ideas is who needs to know them
+  - Concepts of a higher order than those which a person already has cannot be communicated to him by definition, but only arranging for him to encounter a suitable collection of examples
+  - Maths, examples are almost invariably other concepts, must ensure these are formed in mind of learner 
+  - first is broken is majority of textbooks. New topics are introduced by definitions not examples 
+    - examples must have common properties to form the concept, must be alike so can be abstracted.
+  - Before we try to introduce a concept, we need to find out what its contributory concept are until we reach primary concepts. then a suitable plan can be made
+  - problem with this is if you don't fully understand something you won't get the higher concepts (important in maths)
+  - in physics you can understand heat and light without knowing about sound, maths you can't understand algebra without arithmetic.
+  - Students learn manipulations with a imperfect understanding of underlying principles. 
+  - all subsequent concepts may not be understood. Depends on the learner and level of comprehension
+  - contributory concepts needed for each new stage of abstraction must be available. 
+
+  ##### Learning and Teaching
+
+  > create concepets in our mind, only able to do this by using concepts arrived at by past mathematicans
+
+  - dependent on good teaching in early stages 
+  - to know maths is different to teaching it (communicating at a lower conceptual level)
+
+  
+
+  
+
+  
+
+  
 
   
