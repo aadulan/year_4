@@ -404,9 +404,9 @@ Standards of instruction to allow a school to be certified as efficient (1876):
   - dependent on good teaching in early stages 
   - to know maths is different to teaching it (communicating at a lower conceptual level)
 
-  
+  ### The Psychogoly of Learning Maths (Richard Skemp) 
 
-  
+  #### Chapter 2 : The Idea of a Schema 
 
   
 
