@@ -277,4 +277,85 @@ Standards of instruction to allow a school to be certified as efficient (1876):
 
   ### How children learn mathematics: a guide for parents and teachers
 
+  #### Piaget's Interviews with Children 
+
+  > Tests took the form of an interview conducted with indvidual children. designed tests for conservation of number, length, capacity and weight 
+
+  Testing the ability to link pairing and cardinal number. Testing length conservation by moving two sticks to see if they think it has changed 
+
+  #### Piaget's Immutable Sequence of Development
+
+  > bulit a theory of cognitive development, development of knowledge by children, passed through a sequence of stage
+
+  - Grouped stages into four periods of development with a child's congnitive growth
+
+  - *Period 1* (birth to 18 months) - sensori motor
+
+    - Learns to associate sensation with action
+    - Learns the concept of permanence of objects 
+    - Maturer baby learns things exist when you can't see it, also learns the concept of reversibility
+
+  - *Period 2* (18 months - 7 yrs) intuitive
+
+    - (18 months - 4 yrs): 
+      - Representation: using words to represent objects, relations between objects
+      - Perception develops 
+    - (4 - 7 yrs):
+      - Confident that the world is as he perceives it 
+      - More numerous, doesn't have the concept of horizontal yet
+      - Percepetion is egocentric (cannot see anything from another viewpoint)
+      - Solve problems by empirical tests instead of logical relations
+      - Conflicts between perception and reasoning, understood number conservation
+      - able to think two criteria simultaneously 
+
+  - *Period 3* (7 - 12 yrs) concrete operational
+
+    - improves logic to physical situations 
+    - builds mental structures to generalize physical situations 
+    - Concept of reversilibity deepens 
+    - can make transitive inferences 
+
+  - *Period 4* (12 yrs+) formal operational
+
+    - ability to agrue from abstract hypothesis and to make deductions on basis of logic 
+
+    #### Immutable Chain of Development 
+
+    > Periods of cognitive growth include many stages which kids pass through in precisely the same order
+
+    - attain conservation of number, length, capactiy and weight in that order 
+    - won't attain 'horizontal' before 'parallel'
+    - no amount of teaching can accelerate this 
+
+    #### Challenges of Piaget's Theory 
+
+    1. order of development is not invariant for every child 
+       -  Studies show some African children develop number concepts at a later stage than European but develop concept of horizontal much earlier 
+    2. development can be acclerated by teaching 
+       - Conservation of liquid 
+         - child who recognized reversibility of pouring will say yes 
+         - Bruner said not only principle involved as y contained same amount as x, z must contain same amount as x 
+         - Non conservers would agree with first part of agrument
+    3. severely underrates the powers of inference of young children 
+       - Piaget said children unable to do this until concerte operational period 
+       - Bryant and Trabasso performed an experiment to show 4 year old can do this 
+       - Inference than egocentric perception that causes children to draw water parallel to base of jar
+    4. pays insufficient attention to the way in which young children interpret language
+       - Maraget Donaldson, tester rather than child who exhibits egocentricity
+       - shouldn't assume child uses certain words, they understand it in same sense that adults do , comprehension comes after use
+       - Childen intrepret what is said by gestures and facial expressions. Failure occures more likely to be because of interpretaion than of reasoning 
+       - Failure is an inability to abstract language from its context
+
+    - Ability of abstract language from context is what is required maths 
+
+    ##### Conclusions 
+
+    > Drawn our attention to behaviour that is characteristic of child after children
+
+    
+
+    
+
+    
+
   
