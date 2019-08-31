@@ -453,3 +453,10 @@ Standards of instruction to allow a school to be certified as efficient (1876):
 - responsibility of teachers in early stages of learning is high; make sure that schematic learning, not memorizing manipluation of symbols is taking places
   - need to think about what stages require straightforward assimilation and when reconstruction is needed 
   - help pupils find patterns, teach them to look and teach them to be able to reconstruct 
+
+### The Psychogoly of Learning Maths (Richard Skemp)
+
+#### Chapter 12 Relational Understanding and Instrumental Understanding
+
+Haven't been able to read this, can't get it online 
+
