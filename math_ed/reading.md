@@ -460,3 +460,88 @@ Standards of instruction to allow a school to be certified as efficient (1876):
 
 Haven't been able to read this, can't get it online 
 
+## Week 3 Core Reading 
+
+### Learning to teach in the primary school
+
+#### Chapter 2.2 Looking at Learning
+
+##### Introduction
+
+> natrual process that we do everyday, understanding how we learn is not as straightforward
+
+> learning is a relatively persistent change in an individual's possible behaviour due to experience 
+
+##### Behaviourism 
+
+> reaction against the introspective psychology.
+
+- **Knowledge**:
+  - repertoire of behaviours, knowledge is action
+  - set of passive, mechanical responses to environmental stimuli 
+- **Learning**:
+  - Info from teacher -> learner : trasmission of response appopriate to certain stimulus 
+  - point of education is to present the learner with appropriate repertoire of behavioural responses to specific stimuli & reinforce responses through an effective reinforcement schedule
+  - -> requires consistent repetition of materal , should be small progressive tasks & continious positive reinforcement should be given, without this, learned responses will quickly become extinct, learner continue to modify behaviour until they receive positive reinforcement 
+- **Motivation**:
+  - pleaseant experiences cause human learners to make desired connections between specific stimuli & appropriate responses
+- **Teaching**:
+  - `skill` or `drill` exercises to provided the consistent repetition for effective reinforcement of response patterns
+  - postitive reinforcement 
+  - questions (stimulus) & answer (response) sequences, in which questions are of gradually increasing difficulty, guided practice and regular reviews of material . 
+  - Use tests and examinations to measure degree of learning 
+  - Proved most succesful where there is a correct response or easily memorised material. Usefulness in teaching comprehension and composition is questionable 
+
+##### Constructivism
+
+> knowledge comprises symbolic mental representations such as propositions and images, together with mechanism. Actively constructed by learners, based on their existing cognitive structures 
+
+- Jean Piaget said learning is a dynamic process comprising successive stages of adaptation to reality, learners construct knowledge by creating & testing own theories of world
+  - basic principle -> principle of equilibration (balancing) : cognitive development progress towards complex, but stable mental representations of the world
+  - humans have been resistant to new ideas as they have inbulity need for stability 
+- learners adapt and develop by assimilating and accommodating new information into existing cognitive structures 
+- **Knowledge**:
+  - Actively constructed by learners, any account of knowledge makes essential references to cognitive structures within learner's mind
+  - complex set of mental representaions derived from past learning experiences,interprets experiences and info in light of existing knowledge, stage of cognitive development, cultural background, personal history and so on
+- **Learning**:
+  - learning is a process of active discovery
+  - role of teacher is to faciliate discovery, by providing resources & guiding learners attempt to assimilate new knowledge
+- **Motivation**:
+  - Learners must face up to limitations of their own knowledge and accept need to modify or abandon existing beliefs
+- **Teaching**:
+  - Importance of strategies to help learns assimilate and accomadate new material
+  - practical acitivity, physical manipulation of objects 
+
+##### Social Constructivism
+
+> Emphasis that collabroative nature of learning, process by which learners were integrated into a knowledge community 
+
+- **Knowledge**:
+  - language & culture in cognitive development important to how humans perceive the world 
+  - Framework of how humans experience, communicate and understand reality
+- **Learning**:
+  - Actual development : learner capable of solving problems independly 
+  - Potential development: learner capable under guidance of teachers or in collaboration with peers
+- **Motivation:**
+  - Both extrinsic and intrinsic, partially motivated by rewards provided by the knowledge community
+- **Teaching**:
+  - Develop team work skills, all about team work
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
