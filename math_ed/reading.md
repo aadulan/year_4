@@ -408,8 +408,48 @@ Standards of instruction to allow a school to be certified as efficient (1876):
 
   #### Chapter 2 : The Idea of a Schema 
 
-  
+  - Given a collection not of a single object but *pairs* of objects, we can become aware of something in common between the pairs 
+  - Order & equivalence relations have important properties
+  - Study of structures is important in maths & study of ways in which they are bulit and function is core of psychology of learning maths 
 
-  
+##### The Integrative function of a schema 
 
-  
+> recognize something as an example of a concept we become aware of it in two levels : itself and as a member of this class 
+
+- class concept is linked by our mental schema with lots of other concepts, avaliable to help us behave adaptively to the situation of that object
+- *More schemas we have available, better chance of coping with unexpected*
+
+##### The Schema as a tool for further learning 
+
+> almost every we learn depends on knowing something else
+
+- schematically learnt material was not only better, also better retained 
+- learning schematically, learning in a efficient way, preparing a mental tool for applying the same thing to future tasks in that field 
+- if task in isolation, schematic learning can take longer (solving equations - remebering rules a lot easier to do it than understanding the rules for the future)
+- New experience which fits into exisiting schema is a lot better remembered, what doesn't fit into it a lot isn't really learn and what is learnt temporarily is soon forgotten
+- Schema seems very adaptable but may not be depending on the situation. Schemas need to be able to change their structure, reconstruction is sometimes require before new situation is understood. if it fails, new expereince cannot be interpreted and individual cannot cope
+- Basic mathematical schema is natural number system (with + and  $\times$)  bring in fractions and that's another one as multiplication cannot be considered as repeated addition , number schema needs to go under reconsturction 
+- some people go through without understanding fractions
+- diffciulty of reconstructing a schema:
+  - Hindu-arabic system of numerals for natural numbers met with great resistance when introduced into Europe, some made it illegal
+
+##### Understanding 
+
+> To understand something means to assimilate it into an appropriate schema 
+
+- Better internal organization of a schema can help improve understanding 
+
+- rule with explanation is always better than just giving the rule.
+
+##### Implications for the learning of mathematics 
+
+> central importance of the schema as aa tool of learning means that inappropriate early schemas will make the assimilation of later ideas much more difficult, perhaps impossible 
+
+- test adaptability of learner is to give them new mathematically related situations 
+- Bright children can memorize a lot, apperance of learning maths can be matained until a level is reached at which true conceptual learning is adequate to the situation 
+- an apporiate schema is one which takes into account the long term learning task and not immediate one 
+- equations : based on the idea of a pair of scales . but cannot do it for quadractics etc 
+- sometimes hard to choose between short-term inital schema and harder long-term one 
+- responsibility of teachers in early stages of learning is high; make sure that schematic learning, not memorizing manipluation of symbols is taking places
+  - need to think about what stages require straightforward assimilation and when reconstruction is needed 
+  - help pupils find patterns, teach them to look and teach them to be able to reconstruct 
