@@ -527,6 +527,19 @@ Haven't been able to read this, can't get it online
 - **Teaching**:
   - Develop team work skills, all about team work
 
+### Teaching Mathematics
+
+#### Being Mathematical within a mathematical community
+
+##### Constructivism
+
+> perspective on knowledge and learning which suggests that any person's knowledge is not acquired from outside but constructed by that individual 
+
+- learn by adapting what they know to fit with what they experience in the world around them 
+- implication of this belief is that not possible to say something to someone else and expect them to understand exactly the meaning that was intended to be conveyed 
+
+##### Making models 
+
 
 
 
