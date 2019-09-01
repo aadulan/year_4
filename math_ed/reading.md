@@ -570,7 +570,25 @@ Haven't been able to read this, can't get it online
 - to be a mathematican is to mathematisie a situation created 
 - dicussing ideas like this reinforces this as concepts are developed 
 
+### Teaching Mathematics: action and awareness
 
+#### Interlude: On readiness and fading 
+
+> foolish to attempt to teach an idea if is not accessible, little point in wasting time and energy
+
+- Child expose to adult conversation, vocab and thinking process develop more quickly 
+- deciding on readiness and abilities of individual pupils and labelling can mean shutting onself off from seeing other strenghts and potential development.
+- Desire to simplify the design of instruction, can result in failure to stimulate challenge and extend pupils sufficiently thereby inhibiting rather than promoting learning, can cut them off from experience why lay foundation for future readiness
+- children go through periods of behaviour patterns,despite repeated correction or criticism, appear to disregard completely differently,
+- Maria Montessori in Italy reccommended offering children opportunties, if not taken up she advocated exposure to those same opportunties at intervals until they did
+- education is reconstruction of accumlated experience by each individual, teacher role is to provide opportunties and stimulate the reconstruction
+- Many teaching projects said if pupil did not respond as wanted, they were not ready 
+  - tasks classified according to stage and were assigned levels for the national curriculum 
+- Lev Vygotsky offered a persoective which makes readiness a more useful idea 
+- role of language in learning and social role of people was important
+- higher psychological functions such as performing complex tasks & monitoring what is doing are derived from others in observing social interactions. pupils need to talk about their thinking 
+- Zone of proximal development : sensitivities to readiness to develop 
+- saffolding -> assistance that a teacher gives, gradually withdrawn  as pupil is able to function independly 
 
 
 
