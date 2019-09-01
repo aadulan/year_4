@@ -611,23 +611,34 @@ Haven't been able to read this, can't get it online
 
 
 - **Identifying effective teachers of numeracy:**
+
   - effective teachers who bring about identified learning outcomes ( looking at evidence of increases in pupil attainment)
   - Tests were given to classes at beginning and end, average gains were calculated  to provide a `teacher effectiveness`
   - Teachers were groupled in highly effective, effective, moderately effective. Done by ranking average gains 
+
 - **Teacher case Study Data:**
+
   - Research on the links between knowledge, beliefs and practice suggested a mix of techniques to elicit teachers' knowledge and understanding backed up by classroom observation to examine actual practices.
+
 - **Clasroom Observations:**
+
   - 54 lessons observed, looking at pupil responses, teaching resources, teaching styles, organisational and management strategies
+
 - **Case study teacher interviews:** 
+
   - *background*: provide evidence of training & experience, beliefs, knowledge,practises in teaching numeracy, why they are successful 
   - *concept mapping*: task explored teachers understanding aspects of maths related to teaching numeracy
   - *personal construct*: task focused on particular group of pupils that teacher was currently teaching in order to explore beliefs & knowledge about pupils 
+
 - **Orientation in teachers beliefs:**
+
   - connectionist - beliefs based around both valuing pupils' methods and teaching strategies with an emphasis on establishing connections within mathematics
   - transmission - beliefs based around the primacy of teaching and a view of mathematics as a collection of separate routines and procedures
   - discovery- beliefs clustered around the primacy of learning and a view of mathematics as being discovered by pupils
   - **teachers with a strong connectionist orientation were more likely to have classes that made greater gains over the two terms than those classes of teachers with strong discoveryor transmission orientations**
+
 - **Links between orientation and practice:**
+
   - all saw mental maths important, basic number bonds, multiplication facts provide baseline 
   - connectionist orientated saw mental maths as beyond recall of facts, have awarness of connections, relationship to develop mental agility
   - development of flexible mental strategies to handle efficiently number calculations
@@ -636,4 +647,31 @@ Haven't been able to read this, can't get it online
   - connectionist emphasis on challenging all pupils, had high expectations for everyone regarless of ability, others did maths different for lower attaining pupils 
   - connectionist had discussions between teacher, pupils, groups or individually, saw importance of compuntational skills, did not see pre-requiste that pupils should learnt a skill in advance of being able to apply
   -  *discovery* or *transmission* orientated teachers, application of knowledge involved pupils putting what they had previously learnt into context
+
+  ### Teaching Mathematics in secondary schools
+
+  #### Open and closed mathematics approaches
+
+  ##### Introduction
+
+  > growing concern that students cannot use maths learnt at school, in situations outside the classroom 
+
+  - led to decrease in `drill and practise` to `lets problem solve`
+  - reccommed students given open-ended, practical and investigative work which requires them to make their own deccision, plan routes, choose methods, apply their mathematical knowledge
+
+  ##### The Two Schools
+
+  > teaching methods were different, but student intake were very similar 
+
+  - **Amber Hill School:**
+    - teachers show methods and procedures on the board, and pupils work through textbook for remainder of the class apart of last two weeks where they were given open ended project
+    - Students grouped in eight sets based on ability all were extremely motivated 
+    - Find lessons borning and tedious 
+  - **Rule following behaviour:**
+    - students viewed maths was all about memorising a vast number if rules,formulas and equations, thought it was wrong to think about how to solve the problem 
+    - students were not encouraged to discuss rules or methods or think about why they were useful, did not know when situations were mathmatically similar 
+  - **Cue based behaviour:**
+    - based mathematical thinking what they thought was expected 
+
+  
 
