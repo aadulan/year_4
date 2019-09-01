@@ -540,13 +540,35 @@ Haven't been able to read this, can't get it online
 
 ##### Making models 
 
+- different images can contribute to similar models , people's perception of others can be so different to my own
+- models can be adapted from interaction and discussion with others in the group
 
+##### Being Mathematical
 
+- idea was to see how people think and they decided to bring in mathematics 
+- spotted patterns and tried to express the generalities which they could see
 
+##### A Mathematical Community 
 
+> need to communicate mathematical ideas and contrast ways of seeing mathematics in different communities to reach common ground 
 
+- encourages individual constructing of mathematical ideas and fosters negotiation & social mediation which leads to shared meanings being developed 
 
+##### In the Classroom
 
+- **Pythagoras Theorem:**
+  - With disucssions able to think about using fractional numbers not just whole numbers
+- **Area or Perimeter:**
+  - desicribe what they saw 
+  - respect ideas 
+- **Differentiation:**
+  - learn the value of articulating what they think they know 
+
+##### Being a mathematican
+
+- Individual construction of mathematical knowledge 
+- to be a mathematican is to mathematisie a situation created 
+- dicussing ideas like this reinforces this as concepts are developed 
 
 
 
