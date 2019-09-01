@@ -577,24 +577,63 @@ Haven't been able to read this, can't get it online
 > foolish to attempt to teach an idea if is not accessible, little point in wasting time and energy
 
 - Child expose to adult conversation, vocab and thinking process develop more quickly 
+
 - deciding on readiness and abilities of individual pupils and labelling can mean shutting onself off from seeing other strenghts and potential development.
+
 - Desire to simplify the design of instruction, can result in failure to stimulate challenge and extend pupils sufficiently thereby inhibiting rather than promoting learning, can cut them off from experience why lay foundation for future readiness
+
 - children go through periods of behaviour patterns,despite repeated correction or criticism, appear to disregard completely differently,
+
 - Maria Montessori in Italy reccommended offering children opportunties, if not taken up she advocated exposure to those same opportunties at intervals until they did
+
 - education is reconstruction of accumlated experience by each individual, teacher role is to provide opportunties and stimulate the reconstruction
+
 - Many teaching projects said if pupil did not respond as wanted, they were not ready 
+
   - tasks classified according to stage and were assigned levels for the national curriculum 
+
 - Lev Vygotsky offered a persoective which makes readiness a more useful idea 
+
 - role of language in learning and social role of people was important
+
 - higher psychological functions such as performing complex tasks & monitoring what is doing are derived from others in observing social interactions. pupils need to talk about their thinking 
+
 - Zone of proximal development : sensitivities to readiness to develop 
+
 - saffolding -> assistance that a teacher gives, gradually withdrawn  as pupil is able to function independly 
 
+  ## Week 4 Core Reading
+
+  ### Effective Teachers of Numeracy in Primary Schools: Teachers' Beliefs, Practices and Pupils' Learning.
+
+  > Study examining links between teachers' practices, beliefs and knowledge and pupil learning outcomes in numeracy 5yrs to 11
 
 
 
-
-
-
-
+- **Identifying effective teachers of numeracy:**
+  - effective teachers who bring about identified learning outcomes ( looking at evidence of increases in pupil attainment)
+  - Tests were given to classes at beginning and end, average gains were calculated  to provide a `teacher effectiveness`
+  - Teachers were groupled in highly effective, effective, moderately effective. Done by ranking average gains 
+- **Teacher case Study Data:**
+  - Research on the links between knowledge, beliefs and practice suggested a mix of techniques to elicit teachers' knowledge and understanding backed up by classroom observation to examine actual practices.
+- **Clasroom Observations:**
+  - 54 lessons observed, looking at pupil responses, teaching resources, teaching styles, organisational and management strategies
+- **Case study teacher interviews:** 
+  - *background*: provide evidence of training & experience, beliefs, knowledge,practises in teaching numeracy, why they are successful 
+  - *concept mapping*: task explored teachers understanding aspects of maths related to teaching numeracy
+  - *personal construct*: task focused on particular group of pupils that teacher was currently teaching in order to explore beliefs & knowledge about pupils 
+- **Orientation in teachers beliefs:**
+  - connectionist - beliefs based around both valuing pupils' methods and teaching strategies with an emphasis on establishing connections within mathematics
+  - transmission - beliefs based around the primacy of teaching and a view of mathematics as a collection of separate routines and procedures
+  - discovery- beliefs clustered around the primacy of learning and a view of mathematics as being discovered by pupils
+  - **teachers with a strong connectionist orientation were more likely to have classes that made greater gains over the two terms than those classes of teachers with strong discoveryor transmission orientations**
+- **Links between orientation and practice:**
+  - all saw mental maths important, basic number bonds, multiplication facts provide baseline 
+  - connectionist orientated saw mental maths as beyond recall of facts, have awarness of connections, relationship to develop mental agility
+  - development of flexible mental strategies to handle efficiently number calculations
+  - laid foundations that extended the pupils' levels of competency
+  - tackle calculations for which methods had not been taught
+  - connectionist emphasis on challenging all pupils, had high expectations for everyone regarless of ability, others did maths different for lower attaining pupils 
+  - connectionist had discussions between teacher, pupils, groups or individually, saw importance of compuntational skills, did not see pre-requiste that pupils should learnt a skill in advance of being able to apply
+  -  *discovery* or *transmission* orientated teachers, application of knowledge involved pupils putting what they had previously learnt into context
 
