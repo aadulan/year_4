@@ -271,7 +271,21 @@ Standards of instruction to allow a school to be certified as efficient (1876):
     - should acquire some insight in history and development of maths 
     - relations between maths and society 
 
-    
+    ## Week 1 Reccommed Reading 
+
+    ### Curriculum for Excellence - Education Scotland 
+
+    Benchmark for Mathematics (algebra 3- 18 years old):
+
+    - Applies understanding of the equals sign as a balance, and knowledge of number facts, to solve simple algebraic problems where a picture or symbol is used to represent a number, for example,  + 17 = 30 and  × 6 = 30.
+    - When a picture or symbol is used to replace a number in a number statement, I can find its value using my knowledge of number facts and explain my thinking to others. 
+    - I can apply my knowledge of number facts to solve problems where an unknown value is represented by a symbol or letter. 
+    - Solves simple algebraic equations with one variable
+    - Expresses sequence rules in algebraic notation, for example, the cost of hiring a car is £75 plus a charge of £0·05 per mile, ‘m’ driven, C = 0.05m + 75.
+    -  Collects like terms, including squared terms, to simplify an algebraic expression.  Evaluates expressions involving two variables using both positive and negative numbers.  Solves linear equations, for example, ax ± b = c where a, b and c are integers.  Creates a simple linear formula representing information contained in a diagram, problem or statement.  Evaluates a simple formula, for example, C = 0.05m + 75.
+    - Expands brackets using the distributive law and simplifies.  Solves an extended range of linear equations involving the distributive law, for example, ax ± b = cx ± d, where a, b, c and d are integers.  Solves linear inequalities, including on simple closed intervals.  Solves problems by expressing the given information appropriately as an equation, in-equation or formula.  Evaluates algebraic expressions involving a bracket.  Factorises expressions with a numeric common factor.
+
+  
 
   ## Week 2 Core Reading 
 
