@@ -671,7 +671,23 @@ Haven't been able to read this, can't get it online
     - students viewed maths was all about memorising a vast number if rules,formulas and equations, thought it was wrong to think about how to solve the problem 
     - students were not encouraged to discuss rules or methods or think about why they were useful, did not know when situations were mathmatically similar 
   - **Cue based behaviour:**
-    - based mathematical thinking what they thought was expected 
+    - based mathematical thinking what they thought was expected, rather than maths in a question 
+    - used non-mathematical cues as indicators of teachers' and textbooks intentions 
+      - related to word of teacher, use cues as expected diffciulty of question, context of question, teachers info when talking to them 
+      - Schornfield  asserts this from response to conventional pedagogic practise in math that demonstrate set routines that should be learnt
+  - **Phonenix Park School** :
+    - encouraged to take responsibilty and be independent thinkers 
+    - worked on open-ended projects in mixed ability groups  until jan when they started practising exam technique 
+    - If they needed maths they did not know, teacher would teach it 
+    - found it intresting, good atmosphere and noisy 
+  - **Student Assessment:**
+    - Year 9 and 10 gave students an applied task & short written test which assessed all maths they would need for task
+    - on the test both schools were fine 
+    - phonenix were better at applied task
+  - **Discussion**:
+    - Amber hill students developed an inert knowledge that they found difficult using anything but textbook, did not know how to apply methods 
+    - Perceiving and interpretation of situations that seemed to be different 
+    - 
 
   
 
