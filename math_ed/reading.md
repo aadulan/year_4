@@ -687,7 +687,41 @@ Haven't been able to read this, can't get it online
   - **Discussion**:
     - Amber hill students developed an inert knowledge that they found difficult using anything but textbook, did not know how to apply methods 
     - Perceiving and interpretation of situations that seemed to be different 
-    - 
 
-  
+### The Elephant in the Classroom
 
+#### Chapter 2 : What's going wrong in classrooms?
+
+##### Identifying the Problem 
+
+- desire to label students, assign a level, prejudge their achievement 
+- some think role is to find people really good at maths & give rest lower skilled work
+- Schools in England do this constantly, now decideding which children can & cannot do math at 4 years old. 
+- children develop at different rates, reveal different interests, strengths & dispositions at different stages of development
+- should provide stimulating envirnoments for all children, where intrests can be peaked and nurtured
+- difficult to do so, if they are placed in a low group at an early age
+- no longer learn maths to develop problem-solving skills or to appreciate patterns & connections or even express relationships & ideas using forms. learn to get a qualification. Uk dropped from 8th to 24th
+- high acheivers in maths think they should choose maths for further study because they can do it. When they reach uni everyone is at the same level, start to question whole purpose
+
+##### Learning without thought?
+
+> traditional vs progressive teaching
+
+- in maths, stand at front of class, students copy methods and then work through identical questions - forced in a passive relationship, find it hard to use method in new situation, they think all they need to do is memorize
+- students want to know why they are learning it 
+- learn to suppress their thoughts, ideas and problem-solving abilities 
+
+##### Learning without Talking 
+
+> students don't discuss maths in classes, sit in slience instead
+
+- students sometimes need to talk through methods, to know if they understand them, if you explain something, you understand it 
+- Need to talk about maths rather than listen. Listening doens't mean you understand it 
+- some students think they get it when methods are shown to them, difference between seeing it make sense and understanding it 
+- Reasoning is important in maths - understanding why- can't do this in slience 
+- when they offer a soloution, they should know why and explain the rules and principles why, discussing allows them to learn maths is their own ideas and perspectives 
+- seeing things in other people's perspectives allows you to reconstruct the idea and deepens understanding
+
+##### Learning without reality
+
+> students think they have to leave common sense land to do maths 
