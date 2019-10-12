@@ -744,3 +744,84 @@ Haven't been able to read this, can't get it online
 
 #### Maximising energy in the learning of mathematics 
 
+
+
+## Week 5 Core Reading 
+
+### How Interactive is your whiteboard?
+
+> interactive whole class teaching is the 'heart' of effective practise
+
+- the emphasis on maintaining a brisk pace and allowing pupils time to think through their answers; • the emphasis on the need to build on pupils’ methods and the need to meet specific teaching objectives; • the emphasis on rapid recall of facts and using pupil errors constructively; • time for personal reflection on what has been learnt and fast, lively interactive teaching.
+- focus on mini-white boards or inviting children out to the board, rather than thinking about complex issues 
+- children do need time to think and refelct and think of better answers and this interactivity might  not allow them to get there 
+- does allow more interaction between student and teacher 
+- 
+
+![image-20191012120144334](/Users/asmitadulan/Library/Application Support/typora-user-images/image-20191012120144334.png)ask a question that encourages pupils to explain their ideas rather than simply funnel the discussion towards the answer in your head? • allow pupils time to think before demanding a response? • ask a question that is sufficiently complex to require thinking time? • encourage pupils to make public statements of more than 10 words? • encourage pupils to speak in a discussion for more than 5 seconds? • build on a pupil’s answer rather than simply assess it? • follow a pupil’s line of thinking for a while? • encourage pupils to reflect on their learning at the end of a lesson, summarising the key points for themselves?
+
+- research into impact of traditional format still dominates 
+- Teachers are asking more questions - answers are very short though 
+- tend to evaluate rather than extend or build on pupils responses to questions 
+- Need a degree of personal engagement or depth of understanding 
+- must interact with teaching in meaningful manner, need to be able to exchange, not just act of passive recipents 
+
+#### Superficial or deep interactivity 
+
+- form of whole class teaching with the lowest of interaction are lectures 
+
+- scaffolding is restricted 
+
+- Funnelling 
+
+  - teacher who selects the thinking strategy and controls the decision making process as questions lead students along a certain path 
+
+- probing questions allow deeper evaulation of pupils thinking 
+
+- focusing questions control the general direction, draws attention of class to aspects of pupils contributions that are important - need high level of skill and confidences from teachers who think on their feet 
+
+- Collective Reflection : interaction based on evaulation and reflection 
+
+- move towards teaching approaches involve depper interaction and collective reflection would lead to improved learning 
+
+  ### Interactive whiteboards 
+
+- ICT has the potential to promote pupil autonomy in learning, difficult has been integrating ICT within traditional apporaches that are often largely teacher centred
+
+- Lecturing has used powerpoints -> presentational tool
+
+- Interactivity here depends on individual teaching approaches 
+
+- Having programs such as graph plotting allows pupils to experiment on what would happen- allows dicussion 
+
+### Role of the Calculator in learning Mathematics 
+
+- CAN (Calculator-Aware Number) explored impact of calculator use on primary schools pupils 
+- CAN Children competed to develop a wide range of strategies 
+- More willing to attemp questions and work independtly 
+- CPM 
+  - to discover patterns 
+  - a number cruchcer 
+  - recording and manipluating numbers 
+  - object for discovery 
+- they did not become more reliant on calculators 
+- teachers more reliant on discussions 
+- Pupils who used calculators out performed students who didn't, also had more postive attuide towards maths 
+- Wales - no difference was found 
+- often allowd to check if answers are right, can provide instant, provate feedback, so pupils can be reassured 
+- A cructh to avoid learning
+  - can perform calculation but does nothing for math development 
+  - inhibits mental stragies to think 
+- scaffolding to assist learning 
+  - need to underpin concepts 
+  - can help students focus on the more important concepts rather than arithmetic 
+- a window into maths 
+  - explore maths which they may not see 
+- a tool for thinking 
+  - enable to extend maths c oncepts 
+  - abstraction and generalization
+    - use to generate data quickly 
+  - graphical representation
+    - can plot graphs, can explore values very quickly 
+  - Programming
+    - if they want to program they need to understand the math well and to think logically 
