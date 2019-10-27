@@ -825,3 +825,71 @@ Haven't been able to read this, can't get it online
     - can plot graphs, can explore values very quickly 
   - Programming
     - if they want to program they need to understand the math well and to think logically 
+
+
+
+## Week 7 Reading 
+
+### Teaching Mathematics in Secondary Schools 
+
+#### What does it mean to understand something and how do we know when it has happened?
+
+> knowing and understanding have different meanings 
+
+##### Understanding as a state
+
+- common for new teachers to say they only understood something when they had to teach it 
+- thinking involved in planning to teach enabled teacher to revaluate and look at it in a more deeper way, more connected 
+- Marton and Saljo classify learning as 
+  - surface : learning procedures, and descriptions
+  -  deep learning : about connections and relationships with previous descriptions 
+- learning maths involves connecting and employing learnt procedures
+- most math peeps don't explain themselves 
+- a state of understanding would include facts and figures 
+
+##### Understanding as meaning and connection 
+
+- skemp points out knowing what is approaite to do and when to do it, involves a different kind of understanding than knowing how to do it 
+- Insturmental undertsanding vs relational understanding 
+- meanings pupils develop about a concept, relationships and reasons they attach to it are inevitable.
+- give alternative ways to remeber things 
+
+##### Growth of understanding 
+
+- everything is connected 
+- Primitive knoweldge is what is known so far, making distinctions, and using it in new ways 
+
+##### Understanding in context 
+
+- need to be able to apply in real life situations 
+
+##### Understanding as overcoming obstacles 
+
+- overcoming of particular obscatles in mathematics 
+- misunderstandings 
+
+##### what teachers mean by understanding 
+
+- can say in own words
+- tell me how they did it 
+- reconginse abilities to generalise, represent etc 
+
+##### how do we know pupils understand 
+
+- wriiten work, oral understanding etc we need more to show pupils understand 
+
+##### Assesment 
+
+- find out something about the pupils state of knowlege in order to decide what and how to teach 
+- formative assesment can motivate pupils but takes away that deeper understanding 
+
+##### methods of assemesnet 
+
+- is the concept used where apporpitate 
+- has it been adapted for use 
+- explain 
+- tests
+- analyssi 
+- activites 
+- 
+
