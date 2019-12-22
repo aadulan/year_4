@@ -838,12 +838,6 @@ Haven't been able to read this, can't get it online
 
   
 
-  
-
-
-
-
-
 ## Week 5 Core Reading 
 
 ### How Interactive is your whiteboard?
@@ -989,5 +983,58 @@ Haven't been able to read this, can't get it online
 - tests
 - analyssi 
 - activites 
-- 
+
+## Semester 2 - Week 2 Reading
+
+### Debates in mathematics education - Chapter 1
+
+> ability thinking is how mathematics is taught and learnt
+
+- each person has a particular level of math ability that is relatively stable 
+- Entity that help determine how much mathematics, how fast an individual can learn
+- learners with similar levels of attainment so assumed ability are best taught together
+- primary schhols use within class ability grouping or setting 
+
+#### Ability thinking
+
+> people can fixed view of mathematicalability
+>
+> each person has an underlying level of what mathematical ability they have and this contributes to how well they can learn maths 
+
+- sets in class, likely shaped in your beleif 
+- fixed view in balance with 'inborn intelligence'
+- with practise people can improve test scores
+- what people can do in everyday is very different to knowlege they display in formal school enivormnets 
+- attainment on maths tests is not only determined by how much maths is known but by physical well being, level of motivation, general test-taking , emotional issues and revision
+- current curriculum tends to be shaped by what can be easily tested rather than reflecting diverse ways maths is used in society or important ascpects of math activity
+- labels can dertime what they end up being 
+- lowers students expectations & learners are not the same
+
+#### Setting and attainment
+
+- teaching students in sets - dominant form of organisation for maths lessons in most secondary schools in the UK for a long time
+- government encourage approaches like this 
+- counties such as Finland teach maths in all attainment groups, true of other highly ranked European countires 
+
+#### Setting practises and teaching 
+
+- cultural sterotypes 
+- students from groups who experience social and economic disadvantage are more likely to be found in the lower sets 
+- in top sets assumption is evidence suggests that many learners benefit from or  need a face pace and insturmental proficiency. In particular girls are alienated in this enviornment 
+- lower sets in secondary schools will often only be offered material that they have previously encountered and so meet a narrow and restricted curriculum
+
+#### Ability Mindsets
+
+- create barriers and can have profound impacts on learners beliefs about maths 
+
+#### Alternative Mindsets 
+
+- high expectatuons of all students 
+- allow all to access a challenge curriculum
+- valuinh current effort rather than previous attainment 
+- striving for the achievement of all rathe than of a few 
+
+
+
+
 
