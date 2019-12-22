@@ -744,6 +744,104 @@ Haven't been able to read this, can't get it online
 
 #### Maximising energy in the learning of mathematics 
 
+##### Working Creatively
+
+> All children bring the ability to work **creatively** in mathematics 
+
+- thinking & behaving creatively is an increasingly important skill in the world of technology 
+
+- Need a supply of mathematically lierate people
+
+  - in UK at present, of supply  in some doubt 
+
+- loss of creative approach to maths occurs early in pupil's experience of learning maths 
+
+  - Comparing secondary school and primary school - younger pupils were willing & able to attack the problem
+  - assumed if they were given a task, then they would be able to make some progress 
+  - secondary school pupils prep material for them, looking for intresting ways to apporach ideas , each week had to accept material was too demanding, not in content but in terms of demands to be relatively autonomous learners 
+  - caused by teacher behaviour and expectation - made them dependent learners 
+
+- ↑ in the % of young people going to university must be a factor, clear many find the tranisiton to uni a traumatic one 
+
+- Maths grads voulable about difficulties they experienced adjusting to their degree courses 
+
+- Teachers have trouble trying to put in high energy due to them not having it either 
+
+  #### What is lacking?
+
+  - subject to many studies, conflicting with each other 
+  - bottom up curriculum - designed to meet for its priority needs of the average, and below average pupil
+  - intro to curriculum of investigations ->
+
+- **Pace**
+
+  - 'understanding of difficultly' has led to loss of a sense of urgency to progress
+  - is to do with energy expanding in understanding 
+
+- **Know-how**
+
+  - to teach through memory and not understanding 
+
+- **Investigations,conjecturing and Proving**
+
+  - needs to be centerb of learning process
+  - not intergated well 
+
+- **Struggle**
+
+  - many texts have been developed over 10 years to make it easier 
+  - hope to help pupils enjoy maths easier 
+  - don't see overall picture, retains info less well because deeper parts of brain do not engage
+  - to internalise a concept in maths need to engage with it in some real sense, need to articulate and reflectupon it to relate it to other ideas 
+  - need excitment to struggled
+
+- **Challenging some assumptions about teaching**
+
+  - **importance of getting right answers**
+    - hard to erdicate -> pupils get tested by performance of techniques 
+    - teachers feel happy when children get it right 
+    - don't dig deeper and look for lack of understanding 
+    - need to help develop strategies to work with difficult ideas 
+    - need to find it statisfying if they are to value their progress 
+    - need to learn to probe understanding, uncover lack of clarity & misconceptions even if they don't like results 
+  - **teaching as explaining**
+    - main tasks of a teacher is to explain maths to pupils so they understand it
+    - Characteristics of a good maths teaching -> talk about patience & humour, some say need ability to give multiple explanations of the same thing
+    - Can sepeate into 2 things -> arbitrary (standard notation,definitions)
+    - second is things that can be deduced from earlier knowledgeor by working logically with 
+    - to explain in non abritary way is to risk creating dependency on the teaching 
+    - Teach without telling process in which students contributions are valued as they led to ask their own questions, teachers can often assist pupils to move forward by asking them to review it
+    - makes have their own confidence, need to work out when to withhold information 
+
+- **mathematical ethos**
+
+  - **learning takes time**
+    - teachers don't teach, create a situation in which pupils may learn
+    - will take time to come with terms with ideas and can relate to children 
+  - **Reflection**
+    - need to give time to help pupils trace ideas back to link them to previous experiences and to draw out commonalities
+  - **Fluency and Practise**
+    - failure of fluency can cause much loss of energy
+    - cause a delay in progress 
+    - power of games cause a unreasonable amount of practise
+    - need to allow them to search of a general structure 
+  - **Conjecturing**
+    - involves pupils in the evaluation of ideas 
+    - embodies ideas for justification, allows people to contribute
+  - **Know-how versus memorisation**
+    - students become memorizers 
+    - using all there attention to hold on to rules 
+  - **An Internal Monitor**
+    - need to support the development of conceptual structures by highlighting interconnections of ideas
+  - **Confidence and Power**
+    - need to create confidence to help
+
+  
+
+  
+
+
+
 
 
 ## Week 5 Core Reading 
